@@ -1,0 +1,25 @@
+{
+  "title": "Peru",
+  "id": "world.test.2025-03-12.1741811035328",
+  "system": "CoC7",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 20845162,
+  "note": "test1-coc",
+  "snapshotId": null,
+  "originalSize": 21105682,
+  "createdAt": 1741811035334,
+  "packageId": "test",
+  "type": "world"
+}

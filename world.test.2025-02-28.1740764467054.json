@@ -1,0 +1,25 @@
+{
+  "title": "test",
+  "id": "world.test.2025-02-28.1740764467054",
+  "system": "CoC7",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 231225,
+  "note": "",
+  "snapshotId": null,
+  "originalSize": 393427,
+  "createdAt": 1740764467061,
+  "packageId": "test",
+  "type": "world"
+}
